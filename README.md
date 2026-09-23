@@ -6,6 +6,7 @@ The level changes slightly every time the player reaches the exit and adds new m
 Advanced Locomotion Component v2 is used in this game.
 
 Game Trailer: https://youtu.be/6YmyxzVj0Eg
+
 The exe file is in the releases tab.
 
 This is game is a group project made by:
