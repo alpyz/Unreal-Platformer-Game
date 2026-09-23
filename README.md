@@ -7,6 +7,6 @@ Game Trailer: https://youtu.be/6YmyxzVj0Eg
 
 
 This is game is a group project made by:
-Alperen Koca
-Erdem Orduluoğlu
+Alperen Koca,
+Erdem Orduluoğlu,
 Ertuğrul Ercenik
