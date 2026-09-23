@@ -4,7 +4,7 @@ In the game player uses a gravity gun to scale, rotate, move or freeze objects a
 The level changes slightly every time the player reaches the exit and adds new mechanics.
 
 Game Trailer: https://youtu.be/6YmyxzVj0Eg
-
+The exe file is in the releases tab.
 
 This is game is a group project made by:
 Alperen Koca,
